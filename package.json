@@ -1,0 +1,23 @@
+{
+  "name": "@vourhey/devenv",
+  "version": "1.0.0",
+  "description": "Learning npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freecodecamp",
+    "npm"
+  ],
+  "author": "Vadim Manaenko",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vourhey/FreeCodeCamp-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vourhey/FreeCodeCamp-npm/issues"
+  },
+  "homepage": "https://github.com/Vourhey/FreeCodeCamp-npm#readme"
+}
